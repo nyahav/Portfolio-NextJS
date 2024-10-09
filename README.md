@@ -6,8 +6,8 @@ Welcome to the Developer Portfolio—an engaging and visually captivating projec
 This project is designed to highlight a developer's technical and creative capabilities using the latest web technologies. Next.js handles the framework for the user interface, Three.js brings life to 3D elements, Framer Motion delivers stunning animations, and TailwindCSS ensures a sleek, responsive design.
 
 This portfolio is more than just a resume—it's an immersive experience that demonstrates both technical proficiency and an eye for design.
-⚙️ Tech Stack
 
+⚙️ Tech Stack
 The portfolio is built using the following modern tools and frameworks:
 
     Next.js – For handling server-side rendering and static site generation
@@ -16,7 +16,6 @@ The portfolio is built using the following modern tools and frameworks:
     Tailwind CSS – A utility-first CSS framework for fast and efficient styling
 
 🔋 Features
-
 This portfolio comes packed with a variety of features designed to stand out and provide an engaging experience:
 
 👉 Hero Section:
@@ -41,40 +40,32 @@ Beautiful HTML5 canvas effects used in the "Approaches" section, showcasing crea
 Seamlessly adapts to any screen size, ensuring an optimal experience on mobile, tablet, and desktop devices.
 
 ...and much more, including modular architecture and reusability for future improvements or projects.
-🚀 Quick Start
 
+🚀 Quick Start
 Follow these steps to set up the project on your local machine:
 Prerequisites
 
 Ensure that you have the following installed:
 
-    Git – Download Git
-    Node.js – Download Node.js
-    npm (Node Package Manager) – Installed with Node.js
+    Git 
+    Node.js 
+    npm (Node Package Manager) 
 
 Installation
 
     Clone the repository:
 
-    bash
-
 git clone https://github.com/your-username/your-portfolio.git
 
 Navigate into the project directory:
-
-bash
 
 cd your-portfolio
 
 Install dependencies:
 
-bash
-
 npm install
 
 Run the development server:
-
-bash
 
     npm run dev
 
@@ -83,6 +74,7 @@ bash
 🌟 Contributing
 
 Contributions are welcome! If you'd like to improve this portfolio, feel free to submit a pull request or raise an issue.
+
 📜 License
 
 This project is open source and available under the MIT License.
