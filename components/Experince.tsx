@@ -1,16 +1,31 @@
 "use client"
 import React from "react";
 
-import { workExperience } from "@/data";
+import { companies, workExperience } from "@/data";
 import { Button } from "./ui/MovingBorders";
 
 const Experience = () => {
   return (
     <div className="py-20 w-full">
-      <h1 className="heading">
+      <h1 className="heading mb-10">
         My <span className="text-purple">work experience</span>
       </h1>
-
+      <div className="flex flex-wrap items-center justify-center gap-4 md:gap-16 max-lg:mt-10">
+          {companies.map((company) => (
+            <React.Fragment key={company.id}>
+              <div className="flex md:max-w-60 max-w-32 gap-2">
+                <img
+                  src={company.img}
+                  alt={company.name}
+                  className="md:w-10 w-5"
+                />
+                <span className="md:text-lg text-base font-medium">
+                  {company.name}
+                </span>
+              </div>
+            </React.Fragment>
+          ))}
+        </div>
       <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
         {workExperience.map((card) => (
           <Button

@@ -18,7 +18,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "I'm very flexible with time zone communications",
+      title: "I'm very flexible with learning new Technologies",
       description: "",
       className: "lg:col-span-2 md:col-span-3 md:row-span-2",
       imgClassName: "",
@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently building a Real-Estate managing Website",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -106,96 +106,84 @@ export const navItems = [
   
   export const testimonials = [
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote:"I remember when he was just a kid, staying up late, tapping away on that old computer. I thought he was playing games, but turns out he was chasing his dream to become a software wizard! I always said he’d be successful, even if it meant I had to keep bringing him snacks at 3 a.m. ",
+      name: "Miriam Nir",
+      title: "Yahav's mother",
+      img: "/mom.svg",
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote:"He doesn’t just think outside the box—he reprogrammed the box, optimized it, and then sold it as a service. His approach is a perfect fusion of simplicity and brilliance. If I were still around, I’d definitely want to steal, I mean, ‘borrow’ a few of his ideas!",
+      name: "Steve Jobs",
+      title: "CEO Apple Computers Inc",
+      img: "/stevejobs.svg",
     },
     {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-    },
-    {
-      quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      quote:"I’ve seen many developers, but his way of creating solutions is like running Windows in safe mode—no fluff, just focus. He thinks like a cloud architect but codes like he's still having fun in his garage. I wouldn’t be surprised if Microsoft called him one day… and asked for advice.",
+      name: "Satya Nadella",
+      title: "CEO of Microsoft",
+      img: "/satya.svg",
     },
   ];
   
   export const companies = [
     {
       id: 1,
-      name: "cloudinary",
-      img: "/cloud.svg",
-      nameImg: "/cloudName.svg",
+      name: "Bezeq",
+      img: "/Bezeq.svg",
+      //nameImg: "/bezeqName.svg",
     },
     {
       id: 2,
-      name: "appwrite",
-      img: "/app.svg",
-      nameImg: "/appName.svg",
+      name: "HRSignal",
+      img: "/hrsignalLogo.svg",
+      //nameImg: "/HRSignalName.svg",
     },
     {
       id: 3,
-      name: "HOSTINGER",
-      img: "/host.svg",
-      nameImg: "/hostName.svg",
+      name: "CheckPoint",
+      img: "/CHKP.svg",
+      //nameImg: "/checkPointName.svg",
     },
     {
       id: 4,
-      name: "stream",
-      img: "/s.svg",
-      nameImg: "/streamName.svg",
+      name: "Github",
+      img: "/githubLogo.svg",
+      //nameImg: "/streamName.svg",
     },
     {
       id: 5,
-      name: "docker.",
-      img: "/dock.svg",
-      nameImg: "/dockerName.svg",
+      name: "Open Source",
+      img: "/openSource.svg",
+      //nameImg: "/dockerName.svg",
     },
   ];
   
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "BigData Analyst",
+      desc: "Contributed to the development of data-driven applications using Python and BigQuery SQL, improving data processing efficiency.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
-      className: "md:col-span-2", // change to md:col-span-2
+      title: "System Administrator & NOC",
+      desc: "Monitored Linux and network infrastructure. Utilized scripting languages such as Python and Bash to streamline operations. Led incident response and root cause analysis, minimizing downtime.",
+      className: "md:col-span-2",
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
-      className: "md:col-span-2", // change to md:col-span-2
+      title: "Frontend Developer Voluntering Project",
+      desc: "Developed  user-facing features using modern frontend technologies such as ReactJS,MongoDB and more.",
+      className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      title: "Technical Customer Represntive",
+      desc: "Solved problems in a smooth and efficient way, establish relations with customers and teach my co-workers how to use technical software such as CRM and Monday.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
@@ -205,13 +193,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      link:"https://github.com/nyahav",
     },
     {
       id: 2,
       img: "/twit.svg",
+      link:"",
     },
     {
       id: 3,
       img: "/link.svg",
+      link:"www.linkedin.com/in/nir-yahav",
     },
   ];

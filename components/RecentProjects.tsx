@@ -17,9 +17,9 @@ const RecentProjects = () => {
                     <div key={id} className='sm:h-[41rem] h-[32rem] lg:min-h-[32.5rem] flex items-center justify-center sm:w-[570px] w-[80vw]'>
                         {/* Replace PinContainer with CardContainer */}
                         <CardContainer className="inter-var">
-                            <CardBody className="bg-gray-50 relative group/card dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[30rem] h-auto rounded-xl p-6 border">
+                            <CardBody className="bg-gray-50 relative group/card dark:hover:shadow-2xl dark:hover:shadow-emerald-500/[0.1] dark:bg-black dark:border-white/[0.2] border-black/[0.1] w-auto sm:w-[38rem] h-auto rounded-xl p-6 border">
                                 {/* Image Section */}
-                                <CardItem translateZ="50" className='relative flex items-center justify-center sm:w-[570px] w-[80vw] overflow-hidden sm:h-[40vh] h-[30vh] lg:h-[30vh] mb-10'>
+                                <CardItem translateZ="50" className='relative flex items-center justify-center sm:w-[570px] w-[15vw] overflow-hidden sm:h-[40vh] h-[30vh] lg:h-[30vh] mb-10'>
                                     <div className='relative w-full h-full overflow-hidden lg:rounded-3xl bg-[#13162d]'>
                                         <img src="./bg.png" alt="bg-img" />
                                     </div>
