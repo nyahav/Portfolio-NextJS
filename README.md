@@ -1,19 +1,66 @@
-🌟 Developer Portfolio
+🌟 My Developer Portfolio
 
-Welcome to the Developer Portfolio—an engaging and visually captivating project built to showcase a developer's skills in modern web development. This portfolio leverages cutting-edge technologies like Next.js, Three.js, Framer Motion, and TailwindCSS to create a unique, interactive experience that leaves a lasting impression.
+Welcome to the My Developer Portfolio—an engaging and visually captivating project built to showcase a developer's skills in modern web development.
+This portfolio leverages cutting-edge technologies like Next.js, Three.js, Framer Motion, and TailwindCSS to create a unique, interactive experience that leaves a lasting impression.
 🤖 Introduction
 
-This project is designed to highlight a developer's technical and creative capabilities using the latest web technologies. Next.js handles the framework for the user interface, Three.js brings life to 3D elements, Framer Motion delivers stunning animations, and TailwindCSS ensures a sleek, responsive design.
+This project is designed to highlight a my technical and creative capabilities using the latest web technologies.
+ Next.js handles the framework for the user interface, Three.js brings life to 3D elements, Framer Motion delivers stunning animations, and TailwindCSS ensures a sleek, responsive design.
 
 This portfolio is more than just a resume—it's an immersive experience that demonstrates both technical proficiency and an eye for design.
 
 ⚙️ Tech Stack
-The portfolio is built using the following modern tools and frameworks:
-
-    Next.js – For handling server-side rendering and static site generation
-    Three.js – To create and display interactive 3D elements
-    Framer Motion – For smooth and dynamic animations
-    Tailwind CSS – A utility-first CSS framework for fast and efficient styling
+<table>
+    <thead>
+        <tr>
+            <th>Property</th>
+            <th>Badges</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>🎨 Design</td>
+            <td>
+                <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"></a>
+                <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>📋 Languages & Tools</td>
+            <td>
+                <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>📚 Libraries</td>
+            <td>
+                <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"></a>
+                <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
+                <a href="https://framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>🚀 Frameworks</td>
+            <td>
+                <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>☁️ Hosting</td>
+            <td>
+                <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
+            </td>
+        </tr>
+        <tr>
+            <td>📦 Features</td>
+            <td>
+                <a href="https://threejs.org/"><img src="https://img.shields.io/badge/3D%20Interactive%20Elements-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Interactive Elements"></a>
+                <a href="https://framer.com/motion/"><img src="https://img.shields.io/badge/Animations-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion Animations"></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 🔋 Features
 This portfolio comes packed with a variety of features designed to stand out and provide an engaging experience:
