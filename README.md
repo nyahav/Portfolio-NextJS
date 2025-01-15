@@ -21,40 +21,58 @@ This portfolio is more than just a resume—it's an immersive experience that de
         <tr>
             <td>🎨 Design</td>
             <td>
-                <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"></a>
-                <a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
+                <a href="https://www.framer.com/motion/">
+                    <img src="https://img.shields.io/badge/Framer%20Motion-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion">
+                </a>
+                <a href="https://tailwindcss.com/">
+                    <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+                </a>
             </td>
         </tr>
         <tr>
             <td>📋 Languages & Tools</td>
             <td>
-                <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+                <a href="https://www.typescriptlang.org/">
+                    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+                </a>
+                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+                    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+                </a>
             </td>
         </tr>
         <tr>
             <td>📚 Libraries</td>
             <td>
-                <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"></a>
-                <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
-                
+                <a href="https://threejs.org/">
+                    <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
+                </a>
+                <a href="https://reactjs.org/">
+                    <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+                </a>
             </td>
         </tr>
         <tr>
             <td>🚀 Frameworks</td>
             <td>
-                <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"></a>
+                <a href="https://nextjs.org/">
+                    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+                </a>
             </td>
         </tr>
         <tr>
             <td>📦 Features</td>
             <td>
-                <a href="https://threejs.org/"><img src="https://img.shields.io/badge/3D%20Interactive%20Elements-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Interactive Elements"></a>
-                <a href="https://framer.com/motion/"><img src="https://img.shields.io/badge/Animations-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion Animations"></a>
+                <a href="https://threejs.org/">
+                    <img src="https://img.shields.io/badge/3D%20Interactive%20Elements-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Interactive Elements">
+                </a>
+                <a href="https://framer.com/motion/">
+                    <img src="https://img.shields.io/badge/Animations-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion Animations">
+                </a>
             </td>
         </tr>
     </tbody>
 </table>
+
 
 🔋 Features
 This portfolio comes packed with a variety of features designed to stand out and provide an engaging experience:
