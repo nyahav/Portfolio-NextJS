@@ -37,7 +37,7 @@ This portfolio is more than just a resume—it's an immersive experience that de
             <td>
                 <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js"></a>
                 <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
-                <a href="https://framer.com/motion/"><img src="https://img.shields.io/badge/Framer%20Motion-%23EF4B4A.svg?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"></a>
+                
             </td>
         </tr>
         <tr>
