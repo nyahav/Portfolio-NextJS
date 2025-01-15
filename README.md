@@ -47,12 +47,6 @@ This portfolio is more than just a resume—it's an immersive experience that de
             </td>
         </tr>
         <tr>
-            <td>☁️ Hosting</td>
-            <td>
-                <a href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
-            </td>
-        </tr>
-        <tr>
             <td>📦 Features</td>
             <td>
                 <a href="https://threejs.org/"><img src="https://img.shields.io/badge/3D%20Interactive%20Elements-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Interactive Elements"></a>
